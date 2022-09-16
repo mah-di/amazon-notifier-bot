@@ -1,0 +1,10 @@
+Greetings, this is a price and stock notifier bot for amazon products.
+
+To get started, type in the "/track" command, followed by the ASIN(You can find it in the product page) or the Url for the amazon product you want to get notified for and hit send.
+E.g. "/track ProductUrl/Asin"
+
+If you want to get notified for multiple products, just type their ASIN or Urls serially, make sure to separate them with spaces and hit send.
+E.g. "/track ProductAsin ProductUrl"
+
+Once you've successfully registered a product for tracking you'll get notified via message when the price or stock status changes for that product.
+Tap /help for more.

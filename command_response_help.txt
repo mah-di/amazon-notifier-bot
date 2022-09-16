@@ -1,0 +1,16 @@
+Start Tracking
+To register a product for tracking
+/track ProductAsin ProductUrl
+
+Manual Updates
+To receive a manual update for a single product, reply to any of the said product related messages sent by the bot with the "/update" command.
+To receive a manual update for all of the registered products
+/updateall
+
+Stop Updates
+To stop receiving updates for a product, reply to any of the said product related messages sent by the bot with the "/stop" command.
+To stop receiving updates for all of your registered products
+/stopall
+
+Restart Updates
+To restart updates for a product you previously stopped, reply to any of the said product related messages sent by the bot with the "/restart" command.

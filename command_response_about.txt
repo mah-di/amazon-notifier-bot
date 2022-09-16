@@ -1,0 +1,7 @@
+Amazon Notifier Bot:
+This is a product price and stock notifier bot for amazon products. This bot periodically searches the amazon store for price and stock related changes and sends messages to the users notifying about the update.
+This bot is built using python and packages like "python-telegram-bot", "aiohttp", "beautifulsoup", "sqlalchemy", "celery" etc. This is an open source project and you can contribute too: https://github.com/mah-di/amazon-notifier-bot
+
+Message From The Owner:
+Hi this is Iqbal Mahdi, owner of this bot. If you have any complaints/suggestions, please reach out to me at mahdiiqbal37@gmail.com.
+If you have similar project ideas and looking for someone to bring them to fruition, contact me on upwork: https://www.upwork.com/freelancers/~019eacf1c8f90493a7

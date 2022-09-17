@@ -192,7 +192,7 @@ async def reassign_product(username, asin):
     product = await fetch_product(asin)
     if not product:
         data = await get_data(asin=asin)
-        await create_product(data)
+        product = await create_product(data)
 
     await create_association(username, asin)
     return product
